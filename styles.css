@@ -117,3 +117,23 @@ ul.navbar-nav {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.col-md-3 .s-logo {
+  width: 30%;
+}
+
+.logo .col-md-3 {
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.logo {
+  padding-bottom: 50px;
+}
+
+footer {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  text-align: center;
+}
