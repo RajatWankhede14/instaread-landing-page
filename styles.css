@@ -1,0 +1,119 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand {
+  padding: 10px 30px;
+}
+
+ul.navbar-nav {
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+.nav-item {
+  padding-right: 40px;
+}
+
+#download-link {
+  color: blue;
+}
+
+.col-md-6 p {
+  width: 70%;
+  font-size: medium;
+  padding-top: 20px;
+  line-height: 1.55;
+  font-size: 1.176rem;
+}
+
+#content-header {
+  padding: 40px 60px;
+  margin-left: auto;
+}
+
+#content-img1 {
+  margin-top: auto;
+  padding-left: 60px;
+  padding-top: 60px;
+}
+
+.btn {
+  padding: 10px 30px;
+  margin-top: 20px;
+}
+
+.row {
+  background-color: rgb(255, 255, 255);
+}
+
+.col-md-4 img {
+  width: 30%;
+}
+
+.col-md-4 {
+  text-align: center;
+  padding: 40px 50px;
+  justify-content: center;
+}
+
+.col-md-4 h3 {
+  font-weight: 700;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.device-info-1 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.device-info-2 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.device-info-2 h3 {
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.more-books h3 {
+  text-align: center;
+  padding: 30px 20px;
+}
+
+.book-img {
+  object-fit: contain;
+  width: 100%;
+  max-height: 300px;
+  padding-bottom: 20px;
+}
+
+.books {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.book-cover {
+  text-align: center;
+}
+
+.book-name {
+  font-weight: bold;
+}
+
+.more-books .btn {
+  justify-content: center;
+  margin-left: 46%;
+}
+
+.categories {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
